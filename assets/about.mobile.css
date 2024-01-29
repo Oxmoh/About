@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background: #161D30;
+    text-decoration-color: white;
+}
+
+.header1 {
+    color: white;
+    padding-top: 12px;
+    padding-left: 44px;
+    font-size: 1rem;
+}
+
+.fa-envelope, .fa-phone {
+    color: #FFD43B;
+}
+
+menu {
+    position: absolute;
+    z-index: 1;
+    background-color: black;
+    padding-top: 25px;
+    height: 1356px;
+}
+
+.active {
+    color: white!important;
+}
+
+.search {
+    display: flex;
+    justify-content: end;
+    padding-top: 15px;
+    color: white;
+}
+
+.text {
+    background-color: #000000;
+    list-style-type: none;
+    padding-top: 144px;
+    font-size: 5rem;
+    color: white;
+}
+
+.text1 {
+    font-size: 1.5rem;
+}
+
+.section1 {
+    position: relative;
+    z-index: 2;
+    background-color: white;
+    margin-top: 650px;
+    border-top-right-radius: 90px;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.viewBox1 {
+    margin-top: 129px;
+    width: 591px;
+    height: 740px;
+    border-top-right-radius: 35%;
+    background: #333;
+}
+
+.viewBox2{
+    position: absolute;
+    margin-top: 625px;
+    margin-left: 115px;
+    width: 329px;
+    height: 158px;
+    border-top-right-radius: 90px;
+    background-color: #189FF9;
+}
+
+.viewBox3{
+    position: absolute;
+    margin-top: 625px;
+    width: 340px;
+    height: 158px;
+    background-color: #FFAA04;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-left: 53px;
+    color: #FFFFFF;
+}
+
+.title {
+    color: #FFD43B;
+    justify-content: right;
+    margin-top: 215px;
+}
+
+.btn {
+    background-color:  #FFAA04;
+    width: 165px;
+    height: 55px;
+    border-radius: 27.5px;
+    color: #FFFFFF;
+    padding-top: 12px;
+}
+
+.text2 {
+    font-size: 40px;
+}
+
+.text3 {
+    font-size: 16px;
+}
+
+.text4 {
+    font-size: 24px;
+}
+
+.text5 {
+    font-size: 24px;
+}
+
+.text6 {
+    font-size: 24px;
+}
+
+.fa-circle-check {
+    color: #74C0FC;
+}

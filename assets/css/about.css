@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #161D30;
+    height: 67px;
+}
+
+.d-flex {
+    color: #FFFFFF;
+    font-size: 18px;
+}
+
+menu {
+    background: var(--accent, #000000);
+    height: 109px;
+}
+
+.text {
+    list-style-type: none;
+    background: var(--accent, #000000);
+    height: 645px;
+    padding-top: 118px;
+    padding-left: 377px;
+    font-size: 80px;
+}
+
+.text-1 {
+    background: var(--accent, #000000);
+    font-size: 24px;
+}
+
+.learn {
+    list-style-type: none;
+    padding-right: 386px;
+}
+
+.lefboxt {
+    margin-left: 380px;
+}
+.viewBox1 {
+    margin-top: 129px;
+    width: 591px;
+    height: 740px;
+    border-top-right-radius: 35%;
+    background: #333;
+}
+
+.viewBox2{
+    position: absolute;
+    margin-top: 625px;
+    margin-left: 115px;
+    width: 329px;
+    height: 158px;
+    border-top-right-radius: 90px;
+    background-color: #189FF9;
+}
+
+.viewBox3{
+    position: absolute;
+    margin-top: 625px;
+    width: 340px;
+    height: 158px;
+    background-color: #FFAA04;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-left: 53px;
+    color: #FFFFFF;
+}
+
+.title {
+    margin-top: 215px;
+}
+
+.btn {
+    background-color:  #FFAA04;
+    width: 165px;
+    height: 55px;
+    border-radius: 27.5px;
+    color: #FFFFFF;
+    padding-top: 12px;
+}
+
+.text2 {
+    font-size: 40px;
+}
+
+.text3 {
+    font-size: 16px;
+}
+
+.text4 {
+    font-size: 24px;
+}
+
+.text5 {
+    font-size: 24px;
+}
+
+.text6 {
+    font-size: 24px;
+}
+
+.stat {
+    background-color: #F4F4F4;
+    height: 959px;
+    width: auto;
+    margin-top: 236px;
+}
+
+.text-stat {
+    margin-left: 380px;
+}
